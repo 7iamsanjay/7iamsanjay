@@ -1,5 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sanjay 👋
 
+💻 QA Engineer | Selenium (Java) | API Testing | Manual Testing
+
+## 🔧 Skills
+- Selenium WebDriver + Java
+- TestNG & POM Framework
+- API Testing (Postman)
+- Manual Testing & Bug Reporting
+
+## 🚀 Projects
+- QA Automation Framework (Selenium + Java)
+- API Testing Collection
+- Real-world Testing 
+
+## 📍 Location
+Ahmedabad, India
+
+## 📫 Contact
+- LinkedIn : https://www.linkedin.com/in/sanjay-prajapati-092a87220
+- Email : 7iamsanjay@gmail.com
 <!--
 **7iamsanjay/7iamsanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
