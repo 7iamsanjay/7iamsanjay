@@ -1,6 +1,6 @@
 # Hi, I'm Sanjay 👋
 
-💻 QA Engineer | Selenium (Java) | API Testing | Manual Testing
+💻 QA Engineer | Selenium (Java) | API Testing | Manual Testing | Building Scalable Automation Frameworks
 
 ## 🔧 Skills
 - Selenium WebDriver + Java
